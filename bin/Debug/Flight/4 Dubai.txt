@@ -1,0 +1,5 @@
+Flight Code: 4
+Source: Dubai
+Destination: China
+Takeoff Date: Friday, August 16, 2024
+Number of Seats : 234

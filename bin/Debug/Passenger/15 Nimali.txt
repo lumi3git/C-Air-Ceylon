@@ -1,0 +1,7 @@
+Passenger ID: 15
+Passenger Name: Nimali
+Passport Number: NM3443
+Passenger Address: Colombo 5
+Nationality: Sri Lankan
+Gender: Female
+Contact Number: 0456223320

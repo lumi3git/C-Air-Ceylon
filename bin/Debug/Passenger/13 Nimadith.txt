@@ -1,0 +1,7 @@
+Passenger ID: 13
+Passenger Name: Nimadith
+Passport Number: ND0033
+Passenger Address: Mattegoda
+Nationality: British
+Gender: Male 
+Contact Number: 0452622112

@@ -1,0 +1,5 @@
+Flight Code: 9
+Source: Sri Lanka
+Destination: Saudi Arabia
+Takeoff Date: Thursday, September 5, 2024
+Number of Seats : 120

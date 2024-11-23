@@ -1,0 +1,5 @@
+Flight Code: 23
+Source: Japan
+Destination: Italy
+Takeoff Date: Monday, January 1, 2029
+Number of Seats : 455

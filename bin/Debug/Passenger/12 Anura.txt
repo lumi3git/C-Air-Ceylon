@@ -1,0 +1,7 @@
+Passenger ID: 12
+Passenger Name: Anura
+Passport Number: AN3443
+Passenger Address: Negombo 21
+Nationality: Sri Lankan
+Gender: Male 
+Contact Number: 0718993300

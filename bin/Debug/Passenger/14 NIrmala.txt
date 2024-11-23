@@ -1,0 +1,7 @@
+Passenger ID: 14
+Passenger Name: NIrmala
+Passport Number: NM7899
+Passenger Address: Sigiriya
+Nationality: Swiss
+Gender: Male 
+Contact Number: 0785445632

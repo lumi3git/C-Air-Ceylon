@@ -1,0 +1,5 @@
+Flight Code: 11
+Source: Swiss
+Destination: Singapore
+Takeoff Date: Thursday, August 15, 2024
+Number of Seats : 200

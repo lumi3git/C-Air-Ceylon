@@ -1,0 +1,5 @@
+Flight Code: 8
+Source: Japan
+Destination: Singapore
+Takeoff Date: Monday, September 2, 2024
+Number of Seats : 450

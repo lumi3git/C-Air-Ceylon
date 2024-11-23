@@ -1,0 +1,5 @@
+Flight Code: 8
+Source: Australia
+Destination: China
+Takeoff Date: Friday, August 23, 2024
+Number of Seats : 1230
